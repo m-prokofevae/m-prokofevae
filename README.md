@@ -18,6 +18,18 @@
 - ⚡ I'm an amateur crypto enthusiast and investor and have recently got interested in running nodes.
 
 ---
+### Nodes? Nodes! 
+<div id="header" align="center">
+  <img src="https://github.com/m-prokofevae/m-prokofevae/blob/master/Logo1.jpg" width="350"/>
+</div>
+
+#### 🐾 My moniker is Alicefer
+<div id="header" align="center">
+  <img src="https://github.com/m-prokofevae/m-prokofevae/blob/master/Testnet.jpg" width="350"/>
+</div>
+
+
+---
 ### :hammer_and_wrench: Languages, skills and tools
 ⭐⭐⭐⭐⭐ (Proficient)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
